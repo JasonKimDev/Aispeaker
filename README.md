@@ -8,7 +8,11 @@ TTS
 
 STT  
     SpeechRecognition : 음성 인식  
-    PyAudio : 마이크를 통한 오디오 입력 처리
+    PyAudio : 마이크를 통한 오디오 입력 처리  
+    
+Ubuntu 에서 pyaudio 설치시 portaudio.h:No such file or directory 오류  
+해결방법  
+sudo apt-get install portaudio19-dev
 
 mac 환경에서는 : 다름, 유투브 영상 참고
 
