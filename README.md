@@ -7,7 +7,7 @@ TTS
     playsound : 오디오 파일 재생 
 
 STT  
-    SpeechRecognition : 음성 인식
+    SpeechRecognition : 음성 인식  
     PyAudio : 마이크를 통한 오디오 입력 처리
 
 mac 환경에서는 : 다름, 유투브 영상 참고
